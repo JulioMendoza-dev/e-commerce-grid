@@ -118,5 +118,8 @@
     grid-area: footer;
     height: 100px;
 }
-
+.footer p{
+    padding-top: 40px;
+    color: white;
+}
 }
